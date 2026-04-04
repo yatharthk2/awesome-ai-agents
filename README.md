@@ -1703,6 +1703,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112">demo</a></p>
 </div>
 
+### Moss
+<div><a href="https://github.com/usemoss/moss"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>⚡ Real-Time</p>
+
+<p>Moss is a sub-10ms semantic search engine built in Rust/WebAssembly for Voice AI, enabling on-device and in-browser retrieval without network round-trips.</p>
+
+<p><a href="https://github.com/usemoss/moss">github</a> | <a href="https://usemoss.dev">website</a></p>
+</div>
+
 ### MultiOn
 <div><a href="https://www.multion.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
