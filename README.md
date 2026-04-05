@@ -1709,7 +1709,7 @@ Here's an awesome list of AI agents:
 
 <p>Moss is a sub-10ms semantic search engine built in Rust/WebAssembly for Voice AI, enabling on-device and in-browser retrieval without network round-trips.</p>
 
-<p><a href="https://github.com/usemoss/moss">github</a> | <a href="https://usemoss.dev">website</a></p>
+<p><a href="https://github.com/usemoss/moss">github</a> | <a href="[https://usemoss.dev](https://usemoss.dev?utm_source=awesome-ai-agents)">website</a></p>
 </div>
 
 ### MultiOn
